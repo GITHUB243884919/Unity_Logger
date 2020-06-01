@@ -1,0 +1,7 @@
+D:\Fzy\Code\Logger\Logger\Logger\bin\Release\Logger.dll
+D:\Fzy\Code\Logger\Logger\Logger\bin\Release\Logger.pdb
+D:\Fzy\Code\Logger\Logger\Logger\obj\Release\Logger.dll
+D:\Fzy\Code\Logger\Logger\Logger\obj\Release\Logger.pdb
+D:\Fzy\Code\Logger\Logger\Logger\obj\Release\Logger.csprojAssemblyReference.cache
+D:\Fzy\Code\Logger\Logger\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\Fzy\Code\Logger\Logger\Logger\obj\Release\Logger.csproj.CopyComplete
